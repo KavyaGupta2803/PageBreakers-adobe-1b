@@ -1,0 +1,28 @@
+pycache/
+*.py[cod]
+*$py.class
+
+Virtual environment
+venv/
+.env/
+
+IDE settings
+.vscode/
+.idea/
+
+OS-specific files
+.DS_Store
+Thumbs.db
+
+Logs and cache
+*.log
+*.out
+*.bak
+*.tmp
+
+PDF cache or temp files
+*.pdf~
+
+Docker artifacts
+*.tar
+*.img

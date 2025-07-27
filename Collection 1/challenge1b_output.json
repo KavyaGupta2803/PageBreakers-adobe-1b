@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-27T17:56:29.304950"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Comprehensive Guide to Major Cities in the South of France",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Introduction",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "A Culinary Journey Through the South of France",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Introduction",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "A Historical Journey Through the South of France",
+      "importance_rank": 5,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Upscale Restaurants • AM by Alexandre Mazzia (Marseille): A two-Michelin-starred restaurant oﬀering a fine-dining experience with innovative dishes inspired by Mediterranean flavors. The artistic presentation and unique flavor combinations make it a culinary adventure. • Le Mirazur (Menton): Ranked among the world's best restaurants, Le Mirazur oﬀers a unique dining experience with a focus on fresh, local ingredients and innovative dishes. The stunning views of the Mediterranean add to the allure. • La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred restaurant serves refined Provençal cuisine with breathtaking views of the French Riviera. The elegant setting and impeccable",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "Must-Visit Restaurants To truly experience the culinary delights of the South of France, here are some restaurants you should consider visiting: • Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering exquisite seafood dishes and stunning views of the Mediterranean. Chef Gérald Passedat is known for his innovative approach to seafood, creating dishes that are both visually stunning and incredibly flavorful. The restaurant's location on the cliﬀs overlooking the sea adds to the overall dining experience. • La Chèvre d'Or (Èze): Located in a medieval village, this two-Michelin-starred restaurant serves refined Provençal cuisine with breathtaking views of the French Riviera.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Family-Friendly Hotels • Club Med Opio en Provence (Opio): A family-friendly resort oﬀering a wide range of activities for children and adults, including sports, entertainment, and kids' clubs. The beautiful setting and all-inclusive amenities make it a hassle-free vacation spot. • Le Mas de Pierre (Saint-Paul-de-Vence): A luxurious family-friendly hotel oﬀering spacious rooms, beautiful gardens, and a variety of activities for children. The elegant decor and attentive service ensure a comfortable stay for families. • Hôtel Les Roches Rouges (Saint-Raphaël): A family-friendly hotel located on the beach, oﬀering comfortable rooms, a kids' club, and a variety of water sports. The",
+      "page_number": 9
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Packing for All Seasons Spring (March to May) • Clothing: Light sweaters, long-sleeve shirts, t-shirts, and a light jacket or raincoat. • Footwear: Comfortable walking shoes and sandals. • Accessories: Sunglasses, a hat, and a small umbrella. • Additional Tips: Spring can be unpredictable, so be prepared for both sunny and rainy days. Consider packing a lightweight scarf for cooler evenings. Summer (June to August) • Clothing: Lightweight, breathable fabrics like cotton and linen. Pack t-shirts, shorts, sundresses, and swimwear. • Footwear: Sandals, flip-flops, and comfortable walking shoes. • Accessories: Sunglasses, a wide-brimmed hat, sunscreen, and a reusable water bottle.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Luxurious Restaurants • Le Louis XV - Alain Ducasse (Monaco): A three-Michelin-starred restaurant oﬀering an opulent dining experience with a menu that celebrates the flavors of the Mediterranean. The lavish decor and exceptional service make it a dining experience to remember. • La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the luxurious Résidence de la Pinède, oﬀering exquisite dishes inspired by the sea and the land. The serene setting and culinary excellence make it a top choice for fine dining. • Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant oﬀering exquisite seafood dishes and stunning views of the Mediterranean.",
+      "page_number": 6
+    }
+  ]
+}
